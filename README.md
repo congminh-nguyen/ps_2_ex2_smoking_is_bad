@@ -1,5 +1,10 @@
 # PS 2, ex 2 Smoking is bad
 
+## Title: Smoking is bad
+## Credits: Leo Higgins and Charlie Warbuton
+## Description: Project aims to disprove claim that smoking leads to higher chance of survival. May seem this way because of the dataset given, where there were far more observations of young people rather than old people who were all dead. Logistic regression suggests age contributes to survival more than smoking does.
+## Dataset: 1300 observations of indiviudal people, with variables of their age, salary and whether they smoke and/or are alive
+
 # Setup
 
 To install the required packages, run the following command in the terminal (!You have to first
