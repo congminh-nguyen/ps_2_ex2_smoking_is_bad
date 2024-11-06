@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - polars
   - numpy
   - matplotlib
   - seaborn
